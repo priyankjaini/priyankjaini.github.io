@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Priyank Jaini
 
 You can use the [editor on GitHub](https://github.com/priyankjaini/priyankjaini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
